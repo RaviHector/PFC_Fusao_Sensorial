@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+dados/
+_teste_tmp/
+kalman/filtros/_checks/
+*.png
+sim/_output/
+logs/
